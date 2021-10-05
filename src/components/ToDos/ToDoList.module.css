@@ -1,0 +1,15 @@
+.toDos {
+  color: black;
+  font-family: "Comic Sans MS";
+  list-style: none;
+  padding: 0;
+  max-width: 60%;
+  margin: 0 auto;
+  background-color: pink;
+  -webkit-border-bottom-right-radius: 15px;
+  -webkit-border-bottom-left-radius: 15px;
+  -moz-border-radius-bottomright: 15px;
+  -moz-border-radius-bottomleft: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}

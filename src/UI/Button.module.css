@@ -1,0 +1,9 @@
+.button {
+  padding: 0.75rem;
+  margin: 0rem auto;
+  border: 1px solid grey;
+  box-sizing: border-box;
+  background-color: #878995;
+  color: white;
+  font-size: 16px;
+}
